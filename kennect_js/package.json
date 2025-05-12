@@ -1,0 +1,16 @@
+{
+  "name": "kennect_js",
+  "version": "1.0.0",
+  "description": "DOM Function Implementation for Kennect",
+  "keywords": [
+    "js",
+    "dom"
+  ],
+  "license": "ISC",
+  "author": "Savio Fernando",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
