@@ -1,0 +1,20 @@
+.navbar{
+    display: flex;
+    padding: 1rem;
+    align-items: center;
+    justify-content: space-between;
+    width: 100vw;
+    min-width: 100%;
+    background-color: grey;
+}
+
+.search{
+    display: flex;
+    align-items: center;
+    gap: 0.5em
+}
+
+.search > input{
+    padding: 1em;
+    border-radius: 0.5rem;
+}
